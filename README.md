@@ -26,10 +26,8 @@ typewriter
 
 ===
 
-### Usage 
+### Sample Usage  
 
-#### [Example](#example)  
-<a id="example"></a>
 
 ##### The following example handles a `esc` key on a Text element with Id `Text`.
 

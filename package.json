@@ -4,7 +4,7 @@
   "description": "Client-side javascript library enables to wireup keyboard eventing to DOM elements",
   "main": "./lib/typewriter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",

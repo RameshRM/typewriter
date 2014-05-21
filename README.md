@@ -46,6 +46,6 @@ typewriter [![Build Status](https://travis-ci.org/RameshRM/typewriter.svg?branch
 ```javascript
     var $el = document.getElementById('Text') ;
     typewriter.on({keyMap : keyboard.keyMapDefs.Down, state: 'up'},$el,function(kbEvent){
-          alert('Escaped');
+          alert('Down Arrow Pressed');
     });
 ```

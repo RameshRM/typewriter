@@ -1,4 +1,4 @@
-typewriter
+typewriter [![Build Status](https://travis-ci.org/RameshRM/typewriter.svg?branch=master)](https://travis-ci.org/RameshRM/typewriter)
 ===============
 
 ### Summary

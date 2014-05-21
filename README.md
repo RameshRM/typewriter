@@ -20,9 +20,9 @@ typewriter
 
 ### Installation
 
-* <a download="crossdomain-xhr.min.js" href="../dist/keyboard.min.js">Get Minified & Gzipped </a>
+* <a download="typewriter.min.js" href="https://github.com/RameshRM/typewriter/blob/master/dist/typewriter.min.js">Get Minified & Gzipped </a>
 
-* <a download="crossdomain-xhr.js" href="/dist/keyboard.js">Full library </a>
+* <a download="typewriter.js" href="https://github.com/RameshRM/typewriter/blob/master/dist/typewriter.js">Full library </a>
 
 ===
 

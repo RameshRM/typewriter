@@ -34,7 +34,7 @@ typewriter
 
 ```javascript
    var $el = document.getElementById('Text') ;
-    keyboard.on({keyMap : keyboard.keyMapDefs.Esc, state: 'up'},$el,function(kbEvent){
+    typewriter.on({keyMap : keyboard.keyMapDefs.Esc, state: 'up'},$el,function(kbEvent){
           alert('Escaped');
     });
 
@@ -45,7 +45,7 @@ typewriter
 
 ```javascript
     var $el = document.getElementById('Text') ;
-    keyboard.on({keyMap : keyboard.keyMapDefs.Down, state: 'up'},$el,function(kbEvent){
+    typewriter.on({keyMap : keyboard.keyMapDefs.Down, state: 'up'},$el,function(kbEvent){
           alert('Escaped');
     });
 ```
